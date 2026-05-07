@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<img align="left" src="https://count.getloli.com/@:Bufandotlog?theme=green&padding=10&scale=1.8&align=bottom&pixelated=1&darkmode=auto"  />
+<img align="left" src="https://count.getloli.com/@:Bufandotlog?theme=green&padding=8&scale=1.8&align=bottom&pixelated=1&darkmode=auto"  />
 
 ###
 

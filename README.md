@@ -6,11 +6,15 @@
 
 <br clear="both">
 
-<img align="left" src="https://count.getloli.com/@:Bufandotlog?theme=green&padding=8&scale=1.8&align=bottom&pixelated=1&darkmode=auto"  />
+<div align="center">
+  <img height="450" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTRxMmY0MXoycmk5dWE0bnI1dGU4ZnZvYTl0MjBhM3A0NTVyeGJmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WGxDwo6GKEvpM5xEKg/giphy.gif"  />
+</div>
 
 ###
 
-<img align="right" height="170" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnQ4YXNjbjlrY3JuZGM2OXE4MGxic28wMjluMnhnM3FkNmR3dXBuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xCtx06kFEc8mXJPAhc/giphy.gif"  />
+<div align="center">
+  <img src="https://count.getloli.com/@:Bufandotlog?theme=green&padding=8&scale=1.8&align=center&pixelated=1&darkmode=auto"  />
+</div>
 
 ###
 
